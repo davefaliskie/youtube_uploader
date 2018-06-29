@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# client secrets
+*oauth2.json
+client_secret*.json
+
+# video downloads
+/video_downloads
